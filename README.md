@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Atharva
+# 👋 Hi, This is Atharv and Incorporating DevOps to Life | Continus Learning and Continuously Implimenting 🫡
 
-🚀 DevOps Enthusiast | Cloud Infrastructure | Kubernetes | CI/CD Automation | GitOps
+🚀 DevOps | Cloud Infrastructure | Kubernetes | CI/CD Automation | GitOps | FluxCD |
 
 ---
 
