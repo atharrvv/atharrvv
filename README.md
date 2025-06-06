@@ -59,7 +59,7 @@
 
 
 ### 📝 Medium Articles
-- [FluxCD on Kind cluster]: (https://medium.com/@nextatharv123/fluxcd-on-kind-cluster-bc82cc13ad25)
+- [FluxCD on Kind cluster](https://medium.com/@nextatharv123/fluxcd-on-kind-cluster-bc82cc13ad25)
 - [FluxCD- Complete Guide! DockerHub and Slack Webhook Integration]: https://medium.com/@nextatharv123/fluxcd-complete-guide-dockerhub-and-slack-webhook-integration-6c8a545f4cfb
 
 
