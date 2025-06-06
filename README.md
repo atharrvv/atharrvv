@@ -26,29 +26,21 @@
 - 🐳 Docker builds for frontend and backend pushed to Azure Container Registry (ACR)
 - ✅ Automated deployment using `kubectl apply` and `az` CLI
 
----
-
 ### 🔹 [Helm OCI Pipeline](https://github.com/atharrvv/Helm-OCI)
 - 📦 Jenkins pipeline to package Helm charts and push to OCI-compliant Docker registry
 - 🐳 Docker image build and push for Python application
 - 🔐 Helm registry login using Jenkins credentials
 - 🤖 Fully automated chart versioning and deployment support
 
----
-
 ### 🔹 [S3 Bucket Terraform Module](https://github.com/atharrvv/S3_Bucket_Module)
 - 📁 Reusable Terraform module for managing AWS S3 buckets
 - 🌐 Supports ACLs, versioning, logging, encryption, and lifecycle rules
 - 📦 Designed for plug-and-play integration into IaC workflows
 
----
-
 ### 🔹 [Helm Charts](https://github.com/atharrvv/Helm-Chart)
 - 📦 Collection of Helm charts for Kubernetes applications
 - 📁 Simple, reusable structure for deployment across environments
 - 💡 Well-documented values and templates
-
----
 
 ### 🔹 [FluxCD GitOps Repository](https://github.com/atharrvv/Flux-Deploy-Repository)
 - ⚡ GitOps-based Kubernetes deployment using FluxCD
@@ -58,15 +50,29 @@
 
 ---
 
-## ✍️ Writing & Documentation
+## ✍️ Articles & Documentation
 
-I ensure all my projects have:
-- Clean, structured `README.md` with setup instructions
-- Sample pipeline scripts (e.g., Jenkinsfile, Helm charts)
-- Automation using best DevOps practices
-- GitOps and Infrastructure as Code (IaC)
+### 📚 Notion Docs
+- [FluxCD Alerts! Slack webhook integration]([https://www.notion.so/your-notion-link](https://electric-cent-5c8.notion.site/FluxCD-Python-app-1c9fbba268208019af63e252cb126b83?pvs=4))
+- [OCI-based Helm Chart Deployment with Jenkins and FluxCD]([https://www.notion.so/your-notion-link](https://electric-cent-5c8.notion.site/Deploying-Helm-Charts-Through-FluxCD-while-storing-on-OCI-Repository-DockerHub-1e5fbba268208087b32dc897bc0fdcb2?pvs=4))
+- [GitOps with FluxCD - Python App Deployment]([https://www.notion.so/your-notion-link](https://electric-cent-5c8.notion.site/FluxCD-Python-app-1c9fbba268208019af63e252cb126b83?pvs=4))
+
+
+### 📝 Medium Articles
+- [FluxCD on Kind cluster]([https://medium.com/@atharrvv/how-to-build-a-jenkins-pipeline-for-aks-deployment-xxxxxx](https://medium.com/@nextatharv123/fluxcd-on-kind-cluster-bc82cc13ad25))
+- [FluxCD- Complete Guide! DockerHub and Slack Webhook Integration]([https://medium.com/@atharrvv/getting-started-with-fluxcd-for-gitops-automation-xxxxxx](https://medium.com/@nextatharv123/fluxcd-complete-guide-dockerhub-and-slack-webhook-integration-6c8a545f4cfb))
+
 
 ---
+
+## 📫 Connect with Me
+
+📧 Email: atharrvpawar@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/atharrv-pawar/
+
+---
+
+⭐ If you like my work, feel free to star 🌟 the repositories!
 
 ## 📫 Connect with Me
 
