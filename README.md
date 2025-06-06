@@ -67,8 +67,8 @@
 
 ## 📫 Connect with Me
 
-📧 Email: atharrvpawar@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/atharrv-pawar/
+📧 Email: [Atharv](atharrvpawar@gmail.com)
+🔗 LinkedIn: [Atharv](https://www.linkedin.com/in/atharrv-pawar/)
 
 ---
 
