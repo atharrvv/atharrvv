@@ -70,8 +70,8 @@ I ensure all my projects have:
 
 ## 📫 Connect with Me
 
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+📧 Email: atharrvpawar@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/atharrv-pawar/))
 
 ---
 
