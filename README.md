@@ -53,14 +53,14 @@
 ## ✍️ Articles & Documentation
 
 ### 📚 Notion Docs
-- [FluxCD Alerts! Slack webhook integration]: https://electric-cent-5c8.notion.site/FluxCD-Python-app-1c9fbba268208019af63e252cb126b83?pvs=4
-- [OCI-based Helm Chart Deployment with Jenkins and FluxCD]: https://electric-cent-5c8.notion.site/Deploying-Helm-Charts-Through-FluxCD-while-storing-on-OCI-Repository-DockerHub-1e5fbba268208087b32dc897bc0fdcb2?pvs=4
-- [GitOps with FluxCD - Python App Deployment]: https://electric-cent-5c8.notion.site/FluxCD-Python-app-1c9fbba268208019af63e252cb126b83?pvs=4
+- [FluxCD Alerts! Slack webhook integration](https://electric-cent-5c8.notion.site/FluxCD-Python-app-1c9fbba268208019af63e252cb126b83?pvs=4)
+- [OCI-based Helm Chart Deployment with Jenkins and FluxCD](https://electric-cent-5c8.notion.site/Deploying-Helm-Charts-Through-FluxCD-while-storing-on-OCI-Repository-DockerHub-1e5fbba268208087b32dc897bc0fdcb2?pvs=4)
+- [GitOps with FluxCD - Python App Deployment](https://electric-cent-5c8.notion.site/FluxCD-Python-app-1c9fbba268208019af63e252cb126b83?pvs=4)
 
 
 ### 📝 Medium Articles
 - [FluxCD on Kind cluster](https://medium.com/@nextatharv123/fluxcd-on-kind-cluster-bc82cc13ad25)
-- [FluxCD- Complete Guide! DockerHub and Slack Webhook Integration]: https://medium.com/@nextatharv123/fluxcd-complete-guide-dockerhub-and-slack-webhook-integration-6c8a545f4cfb
+- [FluxCD- Complete Guide! DockerHub and Slack Webhook Integration](https://medium.com/@nextatharv123/fluxcd-complete-guide-dockerhub-and-slack-webhook-integration-6c8a545f4cfb)
 
 
 ---
