@@ -73,13 +73,3 @@
 ---
 
 ⭐ If you like my work, feel free to star 🌟 the repositories!
-
-## 📫 Connect with Me
-
-📧 Email: atharrvpawar@gmail.com  
-🔗 LinkedIn: [[[https://linkedin.com/in/your-profile]](https://www.linkedin.com/in/atharrv-pawar/)
-
----
-
-⭐ If you like my work, feel free to star 🌟 the repositories!
-
