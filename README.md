@@ -1,5 +1,5 @@
 # 👋 Hi, This is Atharv 
-## Incorporating DevOps to Life | Continus Learning and Continuously Implimenting 🫡
+## Incorporating DevOps to Life | Continuous Learning and Continuously Implimenting 🫡
 🚀 DevOps | Cloud Infrastructure | Kubernetes | CI/CD Automation | GitOps | FluxCD |
 
 ---
